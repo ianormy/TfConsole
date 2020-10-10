@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/TfConsole/v16
+/TfConsole/vcpkg_installed
+/TfConsole/x64/Debug

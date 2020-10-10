@@ -1,0 +1,8 @@
+{
+  "name": "tfconsole",
+  "version-string": "1.0.0",
+  "description": "Console app using TensorFlow C API",
+  "dependencies": [
+    "tensorflow-c-gpu"
+  ]
+}
